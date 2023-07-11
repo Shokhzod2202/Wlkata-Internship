@@ -1,0 +1,2 @@
+RosForMirobot-master/mirobot_gazebo:RosForMirobot-master/mirobot_moveit_config:RosForMirobot-master/mirobot_urdf_2
+-DCATKIN_DEVEL_PREFIX=/home/shokhzod/wlkata_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shokhzod/wlkata_ws/install -G Unix Makefiles
